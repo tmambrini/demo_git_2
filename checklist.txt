@@ -1,0 +1,13 @@
+Git 1er commit
+
+1) git init sur le répertoire
+2) git status pour vérifier état
+3) git add fichier: commande qui rajoute fichier à l'index qui repertorie tous les fichiers git
+4) git status pour vérifier 
+5) git commit -m "bla bla"
+
+Historique
+
+1) f
+
+ 
