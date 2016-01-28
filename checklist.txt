@@ -9,5 +9,18 @@ Git 1er commit
 Historique
 
 1) git log lorsque le fichier est add+commit: git commit -a -m "bla bla"
+2) git checkout +sha du commit souhaité
+3) git log
+4) git checkout master pour revenir sur le dernier commit
+
+Remote: envoyer sur internet ou un autre ordi
+
+1) github: service en ligne pour héberger tout répository open source
+2) pour prendre du code de github: faire copier url puis aller dans console et 
+faire git clone + url à copier
+3) créer son premier repository: create new repository + entrer nom + description
++ initialize avec readme pour avoir un premier fichier dans repository (juste quand c'est créer depuis github) 
+4) envoyer son fichier sur github: git push origin master
+
 
  
