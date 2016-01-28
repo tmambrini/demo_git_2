@@ -8,6 +8,6 @@ Git 1er commit
 
 Historique
 
-1) f
+1) git log lorsque le fichier est add+commit
 
  
